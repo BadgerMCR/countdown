@@ -1,0 +1,32 @@
+.countdown {
+    font-variant-numeric: tabular-nums;
+    background: url(/mediafiles/score_board.png);
+    background-repeat: no-repeat;
+    padding: 83px 113px!important;
+  }
+  
+  .counter {
+    display: inline-block;
+    margin-left: 5px;
+    position: absolute;
+    top: 83px;
+    left: 542px;
+    padding: 6.5px 10px;
+  }
+  
+  .colorA {
+    width: 110px;
+    height: 5px;
+    position: absolute;
+    top: 130px;
+    left: 213px;
+  }
+  
+  .colorB {
+    width: 110px;
+    height: 5px;
+    position: absolute;
+    top: 130px;
+    left: 435px;
+  }
+  
